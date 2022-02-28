@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Five strange and wonderful prodigies: or, A full and true relation of supernatural sights and aparitions lately seen in the air viz. Tvvo great armies drawn up in battalia, and seeming ready to engage each other, beheld for some hours, by several thousands of people: with dreadful noises heard, like the discharge of cannons and musquets, accompanied with hideous crys and howling. As also a fiery-bullet of a most vast magnitude violently rushing through the air, and at last with a most terrible crack breaking into a thousand pieces, to the unspeakable terror of the amazed spectators. As it is certified by several persons of quality. With an astrological judgement thereupon.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93990</idno>
+            <idno type="STC">Wing S5871B</idno>
+            <idno type="STC">ESTC R231588</idno>
+            <idno type="EEBO-CITATION">99896847</idno>
+            <idno type="PROQUEST">99896847</idno>
+            <idno type="VID">137088</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93990)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137088)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2448:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Five strange and wonderful prodigies: or, A full and true relation of supernatural sights and aparitions lately seen in the air viz. Tvvo great armies drawn up in battalia, and seeming ready to engage each other, beheld for some hours, by several thousands of people: with dreadful noises heard, like the discharge of cannons and musquets, accompanied with hideous crys and howling. As also a fiery-bullet of a most vast magnitude violently rushing through the air, and at last with a most terrible crack breaking into a thousand pieces, to the unspeakable terror of the amazed spectators. As it is certified by several persons of quality. With an astrological judgement thereupon.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for G.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year, 1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Omens --  Early works to 1800.</term>
+               <term>Apparitions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137088:1"/>
+            <pb facs="tcp:137088:1" rendition="simple:additions"/>
+            <p>Strange and Wonderful PRODIGIES: OR, A Full and True Relation of <hi>Super<g ref="char:EOLhyphen"/>natural Sights</hi> and <hi>Aparitions</hi> lately ſeen in the AIR: <hi>VIZ.</hi> Tvvo Great Armies drawn up in Battalia, and ſeeming ready to Engage each other, beheld for ſome hours, by ſeve<g ref="char:EOLhyphen"/>ral thouſands of People: With dreadful Noiſes heard, like the diſcharge of Cannons and Muſquets, accompanied with hideous Crys and Howlings. As alſo a FIERY-BULLET Of a moſt vaſt Magnitude violently ruſhing through the Air, and at laſt with a moſt terrible crack breaking into a thouſand pieces, to the unſpeakable Terror of the amazed Spectators. <hi>As it is certified by ſeveral perſons of quality.</hi> With an Aſtrological Judgement thereupon.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. H.</hi> in the Year, 1673.</p>
+            <pb facs="tcp:137088:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:137088:2"/>
+            <head>Wonderful Prodigies: OR, <hi>Supernatural Apparitions, &amp;c.</hi>
+            </head>
+            <p>THat there have been ſtrange and unaccounta<g ref="char:EOLhyphen"/>ble ſights and apparitions many times beheld in the Air, is a truth ſo well voucht as not to be denyed by any, but thoſe obſtinate Scepticks, who rather than part with a darling fancy of ſingula<g ref="char:EOLhyphen"/>rity, care not if they give the Lye to all Antiquity, proclaim the reſt of Mankind, Fools or Mad-men, or diſbeleive the Teſtimonies of their own ſences: <hi>Joſephus</hi> an Hiſtorian of unqueſtion'd fidelity, tells us of a flam<g ref="char:EOLhyphen"/>ing Sword that hung many days over the City of <hi>Je<g ref="char:EOLhyphen"/>ruſalem:</hi> Immediately before it's fatal deſtruction by <hi>Veſpaſian,</hi> and 'tis ſufficiently known what variety of prodigies proceeded the laſt moſt bloody Wars in <hi>Ger<g ref="char:EOLhyphen"/>many:</hi>
+               <pb n="2" facs="tcp:137088:3"/> Certainly the Doctrine of Methors affords but little ſatisfaction to our inquities, after the Cauſes, amazing apparences, Philoſophy is nonpluſt, and gives too lean an account when it tells us of Reflections in watriſh Clouds of Exhalations, moiſt clammy Sub<g ref="char:EOLhyphen"/>ſtances drawn up by the Suns heat, and ſet on Fire in the upper Region, &amp;c. Theſe may produce an <hi>Ignis Fatuus,</hi> or <hi>Jack with the Lanthorn:</hi> A falling Star, ſome unuſual flaſhings, Corruſcations, Mock-moons, and Halo's or Sircles about the Sun, and the like: But for thoſe Extraordinary <hi>Phoenomina;</hi> we muſt aſ<g ref="char:EOLhyphen"/>ſign ſome other adequate Cauſes, and certainly we ſhall not Err if we ſay that All mighty God offended with mens Impiety Exhibites (whether by the Mini<g ref="char:EOLhyphen"/>ſtry of Angels or otherwiſe) theſe ſtrange ſights as warnings to admoniſh them of Severe Judgements im<g ref="char:EOLhyphen"/>pending, unleſſe prevented by ſincere Repentance and Amendment.</p>
+            <p>How neer the Kingdom of <hi>Poland</hi> was, but the o<g ref="char:EOLhyphen"/>ther year to the Confines of Ruine, none can be Ig<g ref="char:EOLhyphen"/>norant, that at all obſerve the ſeveral ſtones of fate acted on the great Theater of the World, Dome<g ref="char:EOLhyphen"/>ſtick Factions, and an overbearing Invaſion by the Turk had reduc'd that miſerable Nation almoſt to Extremity, being forced (beſides an Ignominious tri<g ref="char:EOLhyphen"/>bute) to yeild up and proſtitute a large part of their Territories to the Luſt of that Inſatiate Monſter of the Eaſt, ſince that, God has offered thoſe People a Breathing time of peace, and in a great meaſure abated the Animoſities of the Nobleſs and diſcon<g ref="char:EOLhyphen"/>tents of the Vulgar, what uſe they have made of theſe Mercies, or returns of Gratitude to Heaven we know not: 'Tis certain great deliverances ob<g ref="char:EOLhyphen"/>lige Sinners to ſuitable acknowledgements and Im<g ref="char:EOLhyphen"/>provements, which providence ſeems now to Exact,
+<pb n="3" facs="tcp:137088:3"/> by Alarming them with the moſt dreadful prodigies that have been heard of in our age. A full and true accompt whereof as it was lately Tranſmitted to us in ſeveral Letters from thence, be pleaſed to take as follows.</p>
+            <p>On the third of <hi>October</hi> laſt paſt at the Town of <hi>Poſen,</hi> and round about for above ten miles diſtance from thence, about five of the Clock in the morn<g ref="char:EOLhyphen"/>ing was ſeen the perfect appearance of two great Ar<g ref="char:EOLhyphen"/>mies in the Air: The Sky was very clear and ſcarce a Cloud to be ſeen above the Horizon. One of the Armies ſtood towards the Eaſt, the other to the Weſt, faceing each other, both drawn up exactly in Battadia, and appearing ſo viſibly that the ſpectators could diſtinguiſh the Horſe and Foot, diſcern the Several Brigades, and plainly ſee their Trains of Artillery: Thoſe that firſt view'd this ſtrange ſight ſummon their Neighbours to admire it, and in an hours ſpace peo<g ref="char:EOLhyphen"/>ple are Alarm'd round the Countrey, who get out of their Beds and Houſes, and with trembling behold this amazeing prodigy, which added more to their terror, when haveing appeared ſome time in that poſture, as braveing each other, both Armies on a ſudden ruſht forwards with a Violent motion, and ſeem'd to meet and moſt furiouſly engage each other, whereupon they heard whole Vallies of Cannons diſcharg'd, and peals of musket ſhot, continually playing for above an hour; accompanied all that time with hideons Cries, and ſhreeks, howlings, ſometimes like the ſhreeks of Wo<g ref="char:EOLhyphen"/>men or Children, and at other times like that of men wounded, and giveing up their laſt Breath in Dying Groans.</p>
+            <p>This diſmal Airial Conflict continued with much fury till Sun-riſing, both parties being ſo in<g ref="char:EOLhyphen"/>termixt,
+<pb n="4" facs="tcp:137088:4"/> that it was impoſſible to diſtinguiſh which had the Victory, the whole Heavens appeared of a crimſon-dye, and overſpread with blood: and the continual Flaſhes made it ſeem like the Day of Doom, when the whole World ſhall become a Prey to the Element of Fire: It is impoſſible to imagine (much leſs expreſs) the Conſternation of the People, who by thouſands ſtood to behold this wonderful Spectacle, where their eyes and ears Encountred nothing but objects of Terror: At laſt the Sun being got above the Horizon, cauſed all theſe Warlike Phantaſms to diſapear, and ſoon after, the noiſe ceaſed, and the Heavens put on their former friendly Countenance, which yet cannot wipe out thoſe ruful Characters of Fear, Affrightment, and Diſpair, imprinted on the dejected viſages of the Spectators by this Prodi<g ref="char:EOLhyphen"/>gy of Horror.</p>
+            <p>About a week after, at Noon-day, no Cloud, Storm, or Tempeſt appearing nigh, a moſt terrible Fiery red hot Bullet was obſerved by hundreds of people, to paſs through the Air a little higher than the tops of their houſes, but of a very vaſt bigneſs, and making a ſtrange kind of hiſſing in its paſſage, yet doing no hurt, but flying ſo ſeveral miles di<g ref="char:EOLhyphen"/>rectly <hi>Eaſt;</hi> at laſt with a mighty noiſe, as if it would have rent the earth, it burſt into a thouſand pieces, which flaming and fluttering a while in the Air, vaniſht.</p>
+            <p>Several other ſtrange and prodigious ſights have lately manifeſted themſelves in divers parts of that Kingdom, the particulars whereof we ſhall here o<g ref="char:EOLhyphen"/>mit, and only obſerve that the fore-recited Aparen<g ref="char:EOLhyphen"/>ces could not be the vain Chimera's of wanton Fan<g ref="char:EOLhyphen"/>cy, or depraved Conceits of melancholly heads, as
+<pb n="5" facs="tcp:137088:4"/> Children fancy they ſee Caſtles, and men, and beaſts, and other ſtrange things ſometimes in the Clouds, or a bright Fire; it is impoſſible ſuch a multitude of people ſhould all be cheated in their ſences with one and the ſame Imagination: nor was it their eyes only, but their ears too had a ſuffici<g ref="char:EOLhyphen"/>ent ſhare in this prodigious entertainment.</p>
+            <p>Let us not place God's immediate miraculous Ad<g ref="char:EOLhyphen"/>monitions to the account of common Secundary cau<g ref="char:EOLhyphen"/>ſes, nor argue againſt the reality of their Aparence, till we ſmart under the fury of their Significations, God has two fair Volumes, whereby he reveals his pleaſure to the Sons of men, his Word, and his Works; ſometimes he wooes us by the one, and ſometimes warns us by the other: and thoſe that will neither obey his moſt profitable Precepts, nor regard his merciful Threatnings, deſervedly become Objects of his ſevere Juſtice: who then ſets up cruel and barbarous Nations (as Rods of his Anger) to ſcourge them that vainly pride themſelves in the Title o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſtians, and yet ſurpaſs the worſt of Heathens in all kinds of Debauchery and Wicked<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>As for the ſignifications of theſe uncouth Apparences, we ſay only in the words of the eldeſt of <hi>Sybils—Caelum Mars Solus habebit:</hi> It is obſervable that the Male-effects of the three laſt Comets in 1965. are not to this day over-paſt: The Northern parts of the world have already been ſenſible of the Diſaſters thereby menaced: But we fear this cup of trembling muſt go round, and who knows but the Countries <hi>North</hi> and <hi>North-Eaſt</hi> are deſigned next to pledge it: It is now a hundred years ſince the famous New-Star in <hi>Caſſiopia</hi> firſt appear'd to mortals; and it was the Judgement of the moſt Learned <hi>Ticho Brahe</hi> that
+<pb n="6" facs="tcp:137088:5"/> the Portents thereof would be chiefly viſible about ſuch a period of time from thence, and in thoſe very Regions of <hi>Poland, Ruſſia,</hi> or <hi>Muſcovia:</hi> nor do the late frequent opo<g ref="char:EOLhyphen"/>ſitions of the two Superiors, <hi>Saturn</hi> and <hi>Jupiter</hi> imitate leſs than the Mid-wifeing ſome eminent <hi>Cataſtrophes</hi> into the World: Thoſe that are acquainted with the <hi>Hermetick</hi> Learning can tell to what Angel the Government of ſub<g ref="char:EOLhyphen"/>lunaries is moſt referrible, and the few <hi>vere Adepti,</hi> or Legitimate Sons of Art poſſeſt of the true Cabaliſtical Aſtrology, unſullied by the vanities of the <hi>Aegyptians</hi> and <hi>Arabians,</hi> may give a rational Judgement on ſuch rare Phanomina as theſe, whilſt the vulgar Scioliſt flutters in a purblind Ignorance, and does but vend the follies of his frothy brain, inſtead of the Dictates of Art.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:137088:5" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
